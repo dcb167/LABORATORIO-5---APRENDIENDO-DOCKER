@@ -36,10 +36,25 @@ Movelt es un conjunto de paquetes de software open source integrados con ROS (Ro
 
 ###### 1.1.2.2 Alcances en el sector loT
 
+Permite que manipuladores robóticos funcionen como nodos inteligentes dentro de redes IoT, donde sus movimientos, posiciones, estados pueden ser monitoreados remotamente, y sus trayectorias planificadas teniendo en cuenta datos en tiempo real de sensores externos (IoT).
 
+En escenarios de Robótica en el Borde (Edge Robotics) o IoRT (Internet of Robotic Things), MoveIt! puede correr en hardware embebido o edge, recibiendo datos de sensores IoT, y realizar planificación local para reducir latencia frente a depender de la nube.
+
+MoveIt! facilita integración con otros sistemas IoT mediante APIs, plugin de sensores, módulos de percepción que pueden emitir datos útiles para plataformas IoT (por ejemplo para mantenimiento predictivo, monitoreo, etc.).
+
+En contextos de flotas de robots o automatización distribuida, MoveIt! apoya la orquestación de movimientos coordinados, detección de obstáculos dinámicos, cálculos de trayectorias seguros, lo que es crítico en fábricas inteligentes, logística con robots móviles manipuladores, etc.
 
 ###### 1.1.2.3 Aplicaciones
 
++ <strong> _Industria (ensamblaje, picking, logística):_</strong> planificación segura de trayectorias para brazos industriales en líneas de montaje y estaciones de picking.
+
+Robots de servicio y salud: manipuladores que asisten en entornos asistenciales (teleoperación, entrega de medicación) integrados con sistemas hospitalarios IoT.
+
+Investigación y educación: prototipado de planificadores, benchmarking de algoritmos de manipulación y enseñanza de cinemática y control.
+
+Robots móviles manipuladores: integración de planificación del brazo con la navegación base (coordinación arm+base para tareas dinámicas en almacenes).
+
+Prototipado y pruebas en simulación: uso combinado de MoveIt!, RViz y Gazebo para validar comportamientos antes de desplegar en hardware.
 
 ##### 1.1.3 Herramienta Gazebo
 
