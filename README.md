@@ -60,7 +60,7 @@ Gazebo es un simulador multi-robot 3D open-source que combina un motor físico (
 
 + <strong> _Pruebas de interoperability y gateways IoT:_</strong> Al simular sensores y actuadores, Gazebo facilita probar pipelines que convierten datos simulados en mensajes MQTT/HTTP o en topics ROS, permitiendo validar integración con plataformas IoT sin riesgo para el hardware [12], [13].
 
-+ <strong> _Entrenamiento y validación de IA/ML en el borde:_</strong> Conjuntos de datos sintéticos (imágenes, nubes de puntos, lecturas IMU) generados en Gazebo son útiles para entrenar modelos que luego se ejecutan en edge devices dentro de arquitecturas IoT [15].
++ <strong> _Entrenamiento y validación de IA/ML en el borde:_</strong> Conjuntos de datos sintéticos (imágenes, nubes de puntos, lecturas IMU) generados en Gazebo son útiles para entrenar modelos que luego se ejecutan en edge devices dentro de arquitecturas IoT [14].
 
 ###### 1.1.3.3 Aplicaciones
 
