@@ -46,15 +46,15 @@ En contextos de flotas de robots o automatización distribuida, MoveIt! apoya la
 
 ###### 1.1.2.3 Aplicaciones
 
-+ <strong> _Industria (ensamblaje, picking, logística):_</strong> planificación segura de trayectorias para brazos industriales en líneas de montaje y estaciones de picking.
++ <strong> _Industria (ensamblaje, picking, logística):_</strong> Planificación segura de trayectorias para brazos industriales en líneas de montaje y estaciones de picking.
 
-Robots de servicio y salud: manipuladores que asisten en entornos asistenciales (teleoperación, entrega de medicación) integrados con sistemas hospitalarios IoT.
++ <strong> _Robots de servicio y salud:_</strong>  Manipuladores que asisten en entornos asistenciales (teleoperación, entrega de medicación) integrados con sistemas hospitalarios IoT.
 
-Investigación y educación: prototipado de planificadores, benchmarking de algoritmos de manipulación y enseñanza de cinemática y control.
++ <strong> Investigación y educación::_</strong>   Prototipado de planificadores, benchmarking de algoritmos de manipulación y enseñanza de cinemática y control.
 
-Robots móviles manipuladores: integración de planificación del brazo con la navegación base (coordinación arm+base para tareas dinámicas en almacenes).
++ <strong> Robots móviles manipuladores:_</strong> Integración de planificación del brazo con la navegación base (coordinación arm+base para tareas dinámicas en almacenes).
 
-Prototipado y pruebas en simulación: uso combinado de MoveIt!, RViz y Gazebo para validar comportamientos antes de desplegar en hardware.
++ <strong> Prototipado y pruebas en simulación:_</strong> Uso combinado de Movelt, RViz y Gazebo para validar comportamientos antes de desplegar en hardware.
 
 ##### 1.1.3 Herramienta Gazebo
 
