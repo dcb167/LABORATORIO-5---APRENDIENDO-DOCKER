@@ -32,8 +32,10 @@ La combinación de robótica e IoT ha dado origen al concepto Internet of Roboti
 
 ###### 1.1.2.1 Definición
 
+Movelt es un conjunto de paquetes de software open source integrados con ROS (Robot Operating System) orientados a planificación de movimiento, manipulación, cinemática, percepción de entorno, detección de colisiones, y ejecución de trayectorias para brazos robóticos. Ofrece herramientas para configurar robots, generar trayectorias, controlar manipuladores y simular movimientos [8], [9].
 
 ###### 1.1.2.2 Alcances en el sector loT
+
 
 
 ###### 1.1.2.3 Aplicaciones
@@ -65,4 +67,7 @@ La combinación de robótica e IoT ha dado origen al concepto Internet of Roboti
 
 [7] A. Testa, A. Camisa, and G. Notarstefano, “ChoiRbot: A ROS 2 Toolbox for Cooperative Robotics,” arXiv preprint arXiv:2010.13431, 2020. [Online]. Available: https://arxiv.org/abs/2010.13431
 
+[8] D. Coleman, I. Sucan, S. Chitta, N. Correll, “Reducing the Barrier to Entry of Complex Robotic Software: a MoveIt! Case Study,” arXiv preprint arXiv:1404.3785, 2014. [Online]. Available: https://arxiv.org/abs/1404.3785
+
+[9] PickNik Robotics, “PickNik Robotics releases MoveIt Studio Developer Platform and SDK,” The Robot Report, 2022. [Online]. Available: https://www.therobotreport.com/picknik-robotics-releases-movelt-developer-platform-and-sdk/
 
