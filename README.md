@@ -18,7 +18,7 @@ La combinación de robótica e IoT ha dado origen al concepto Internet of Roboti
 
 ###### 1.1.1.3 Aplicaciones
 
-+ _Monitoreo ambiental y ciudades inteligentes:_ Robots móviles con sensores ROS recopilan información sobre calidad del aire o ruido, y la envían a plataformas IoT para generar mapas ambientales en tiempo real [5].
++</strong> _Monitoreo ambiental y ciudades inteligentes:_</strong> Robots móviles con sensores ROS recopilan información sobre calidad del aire o ruido, y la envían a plataformas IoT para generar mapas ambientales en tiempo real [5].
 
 + _Agricultura de precisión:_ Drones y vehículos autónomos con ROS realizan mapeo de cultivos, detección de plagas y riego automatizado, integrándose con sistemas IoT para análisis predictivo [5].
 
