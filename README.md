@@ -18,13 +18,13 @@ La combinación de robótica e IoT ha dado origen al concepto Internet of Roboti
 
 ###### 1.1.1.3 Aplicaciones
 
-+ _Monitoreo ambiental y ciudades inteligentes:_ robots móviles con sensores ROS recopilan información sobre calidad del aire o ruido, y la envían a plataformas IoT para generar mapas ambientales en tiempo real [5].
++ _Monitoreo ambiental y ciudades inteligentes:_ Robots móviles con sensores ROS recopilan información sobre calidad del aire o ruido, y la envían a plataformas IoT para generar mapas ambientales en tiempo real [5].
 
-+ _Agricultura de precisión:_ drones y vehículos autónomos con ROS realizan mapeo de cultivos, detección de plagas y riego automatizado, integrándose con sistemas IoT para análisis predictivo [5].
++ _Agricultura de precisión:_ Drones y vehículos autónomos con ROS realizan mapeo de cultivos, detección de plagas y riego automatizado, integrándose con sistemas IoT para análisis predictivo [5].
 
-+ _Salud y asistencia remota:_ robots con ROS permiten telepresencia, transporte hospitalario y monitoreo remoto, conectados a infraestructuras médicas IoT [5].
++ _Salud y asistencia remota:_ Robots con ROS permiten telepresencia, transporte hospitalario y monitoreo remoto, conectados a infraestructuras médicas IoT [5].
 
-+ _Industria 4.0 y logística:_ manipuladores industriales y AGVs controlados por ROS se integran con plataformas IIoT para mejorar la trazabilidad y la eficiencia [4], [6].
++ _Industria 4.0 y logística:_ Manipuladores industriales y AGVs controlados por ROS se integran con plataformas IIoT para mejorar la trazabilidad y la eficiencia [4], [6].
 
 + _Investigación y educación:_ ROS sigue siendo la plataforma de referencia en universidades y centros de investigación por su modularidad y ecosistema abierto [1], [7].
 
@@ -51,5 +51,18 @@ La combinación de robótica e IoT ha dado origen al concepto Internet of Roboti
 
 ### Referencias
 
+[1] M. Quigley, K. Conley, B. Gerkey, J. Faust, T. Foote, J. Leibs, R. Wheeler, and A. Y. Ng, “ROS: an open-source Robot Operating System,” ICRA Workshop on Open Source Software, 2009. [Online]. Available: https://ai.stanford.edu/~mquigley/papers/icra2009-ros.pdf
+
+[2] Open Robotics, “Robot Operating System (ROS),” ROS.org, 2025. [Online]. Available: https://www.ros.org/
+
+[3] Wikipedia, “Robot Operating System,” Wikipedia: The Free Encyclopedia, 2025. [Online]. Available: https://en.wikipedia.org/wiki/Robot_Operating_System
+
+[4] M. Biggs, J. Peralta, and C. Hernández, “Software Engineering Research on the Robot Operating System,” Journal of Systems and Software, vol. 190, 2022. [Online]. Available: https://doi.org/10.1016/j.jss.2022.111431
+
+[5] C. Eze, “Internet of Things Meets Robotics: A Survey of Cloud-Based Robots,” arXiv preprint arXiv:2306.02586, 2023. [Online]. Available: https://arxiv.org/abs/2306.02586
+
+[6] J. Ichnowski et al., “FogROS2: An Adaptive Platform for Cloud and Fog Robotics Using ROS 2,” arXiv preprint arXiv:2205.09778, 2022. [Online]. Available: https://arxiv.org/abs/2205.09778
+
+[7] A. Testa, A. Camisa, and G. Notarstefano, “ChoiRbot: A ROS 2 Toolbox for Cooperative Robotics,” arXiv preprint arXiv:2010.13431, 2020. [Online]. Available: https://arxiv.org/abs/2010.13431
 
 
