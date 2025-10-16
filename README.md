@@ -13,7 +13,7 @@ Robot Operating System (ROS) es un conjunto de bibliotecas y herramientas de có
 
 ###### 1.1.1.2 Alcances en el sector loT
 
-La combinación de robótica e IoT ha dado origen al concepto Internet of Robotic Things (IoRT), en el cual, los robots actúan como nodos inteligentes dentro de redes IoT, ejecutando tareas de sensado, procesamiento y actuación [5]. ROS proporciona la infraestructura necesaria para esta integración mediante adaptadores como ROS–MQTT y ROS Gateways, que permiten la interoperabilidad con plataformas IoT y sistemas en la nube [5], [6]. De igual manera, proyectos como FogROS2 permiten trasladar procesos intensivos de cómputo a la nube o la niebla (FOG), optimizando el rendimiento de robots conectados en entornos IoT distribuidos [6].
+La combinación de robótica e IoT ha dado origen al concepto Internet of Robotic Things (IoRT), en el cual, los robots actúan como nodos inteligentes dentro de redes IoT, ejecutando tareas de sensado, procesamiento y actuación [5]. ROS proporciona la infraestructura necesaria para esta integración mediante adaptadores como ROS–MQTT y ROS Gateways, que permiten la interoperabilidad con plataformas IoT y sistemas en la nube [5], [6]. De igual manera, proyectos como FOGROS2 permiten trasladar procesos intensivos de cómputo a la nube o la niebla (FOG), optimizando el rendimiento de robots conectados en entornos IoT distribuidos [6].
 
 
 ###### 1.1.1.3 Aplicaciones
