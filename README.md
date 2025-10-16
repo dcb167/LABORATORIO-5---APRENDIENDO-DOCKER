@@ -58,6 +58,9 @@ Gazebo es un simulador multi-robot 3D open-source que combina un motor físico (
 
 ###### 1.1.3.2 Alcances en el sector loT
 
++ <strong> _Pruebas de interoperability y gateways IoT:_</strong> Al simular sensores y actuadores, Gazebo facilita probar pipelines que convierten datos simulados en mensajes MQTT/HTTP o en topics ROS, permitiendo validar integración con plataformas IoT sin riesgo para el hardware [12], [13].
+
++ <strong> _Entrenamiento y validación de IA/ML en el borde:_</strong> Conjuntos de datos sintéticos (imágenes, nubes de puntos, lecturas IMU) generados en Gazebo son útiles para entrenar modelos que luego se ejecutan en edge devices dentro de arquitecturas IoT [15].
 
 ###### 1.1.3.3 Aplicaciones
 
@@ -88,5 +91,13 @@ Gazebo es un simulador multi-robot 3D open-source que combina un motor físico (
 [10] N. Koenig and A. Howard, “Design and Use Paradigms for Gazebo, An Open-Source Multi-Robot Simulator,” Proc. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Sendai, Japan, Sep. 2004, pp. 2149–2154. Available: https://robotics.usc.edu/publications/media/uploads/pubs/394.pdf
 
 [11] Gazebo Sim, “Gazebo Sim — Open Source Robotics Simulator,” GazeboSim.org, 2025. [Online]. Available: https://gazebosim.org/libs/sim/
-. [Accessed: 16-Oct-2025].
+[Accessed: 16-Oct-2025].
 
+[12] Open Robotics / Gazebo community discussion, “Updates in Ignition Gazebo Documentation,” OpenRobotics Discourse, 2023. [Online]. Available: https://discourse.openrobotics.org/t/updates-in-ignition-gazebo-documentation/48400
+[Accessed: 16-Oct-2025].
+
+[13] Gazebo Libraries, “Sensors, Physics and Tools — Gazebo Documentation,” GazeboSim.org, 2025. [Online]. Available: https://gazebosim.org/libs/
+[Accessed: 16-Oct-2025].
+
+[14] “Setting up a robot simulation (Gazebo) — ROS Documentation,” docs.ros.org, 2025. [Online]. Available: https://docs.ros.org/en/humble/Tutorials/Advanced/Simulators/Gazebo/Gazebo.html
+[Accessed: 16-Oct-2025].
