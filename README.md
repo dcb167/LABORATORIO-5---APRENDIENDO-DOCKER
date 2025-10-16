@@ -40,7 +40,7 @@ Permite que manipuladores robóticos funcionen como nodos inteligentes dentro de
 
 En escenarios de Robótica en el Borde (Edge Robotics) o IoRT (Internet of Robotic Things), MoveIt! puede correr en hardware embebido o edge, recibiendo datos de sensores IoT, y realizar planificación local para reducir latencia frente a depender de la nube.
 
-MoveIt! facilita integración con otros sistemas IoT mediante APIs, plugin de sensores, módulos de percepción que pueden emitir datos útiles para plataformas IoT (por ejemplo para mantenimiento predictivo, monitoreo, etc.).
+MoveIt! facilita integración con otros sistemas IoT mediante APIs, plugin de sensores, módulos de percepción que pueden emitir datos útiles para plataformas IoT (por ejemplo para mantenimiento predictivo, monitoreo, etc.)
 
 En contextos de flotas de robots o automatización distribuida, MoveIt! apoya la orquestación de movimientos coordinados, detección de obstáculos dinámicos, cálculos de trayectorias seguros, lo que es crítico en fábricas inteligentes, logística con robots móviles manipuladores, etc.
 
@@ -50,7 +50,7 @@ En contextos de flotas de robots o automatización distribuida, MoveIt! apoya la
 
 + <strong> _Robots de servicio y salud:_</strong>  Manipuladores que asisten en entornos asistenciales (teleoperación, entrega de medicación) integrados con sistemas hospitalarios IoT.
 
-+ <strong> Investigación y educación::_</strong>   Prototipado de planificadores, benchmarking de algoritmos de manipulación y enseñanza de cinemática y control.
++ <strong> Investigación y educación:_</strong>   Prototipado de planificadores, benchmarking de algoritmos de manipulación y enseñanza de cinemática y control.
 
 + <strong> Robots móviles manipuladores:_</strong> Integración de planificación del brazo con la navegación base (coordinación arm+base para tareas dinámicas en almacenes).
 
