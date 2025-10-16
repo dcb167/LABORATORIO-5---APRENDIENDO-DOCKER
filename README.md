@@ -54,6 +54,7 @@ Permite que manipuladores robóticos funcionen como nodos inteligentes dentro de
 
 ###### 1.1.3.1 Definición
 
+Gazebo es un simulador multi-robot 3D open-source que combina un motor físico (dinámica de cuerpos rígidos), modelos de sensores (cámaras, LIDAR, IMU, contactos), renderizado 3D y una arquitectura de plugins para extender comportamientos y conexiones a middleware como ROS. Fue presentado originalmente por Koenig y Howard (2004) y desde entonces ha evolucionado incluyendo la re-arquitectura conocida como Ignition/Gazebo para ofrecer mayor modularidad y bibliotecas reutilizables  [10], [11].
 
 ###### 1.1.3.2 Alcances en el sector loT
 
@@ -83,4 +84,9 @@ Permite que manipuladores robóticos funcionen como nodos inteligentes dentro de
 [8] D. Coleman, I. Sucan, S. Chitta, N. Correll, “Reducing the Barrier to Entry of Complex Robotic Software: a MoveIt! Case Study,” arXiv preprint arXiv:1404.3785, 2014. [Online]. Available: https://arxiv.org/abs/1404.3785
 
 [9] PickNik Robotics, “PickNik Robotics releases MoveIt Studio Developer Platform and SDK,” The Robot Report, 2022. [Online]. Available: https://www.therobotreport.com/picknik-robotics-releases-movelt-developer-platform-and-sdk/
+
+[10] N. Koenig and A. Howard, “Design and Use Paradigms for Gazebo, An Open-Source Multi-Robot Simulator,” Proc. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Sendai, Japan, Sep. 2004, pp. 2149–2154. Available: https://robotics.usc.edu/publications/media/uploads/pubs/394.pdf
+
+[11] Gazebo Sim, “Gazebo Sim — Open Source Robotics Simulator,” GazeboSim.org, 2025. [Online]. Available: https://gazebosim.org/libs/sim/
+. [Accessed: 16-Oct-2025].
 
