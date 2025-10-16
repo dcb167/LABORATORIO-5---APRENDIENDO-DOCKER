@@ -36,13 +36,7 @@ Movelt es un conjunto de paquetes de software open source integrados con ROS (Ro
 
 ###### 1.1.2.2 Alcances en el sector loT
 
-Permite que manipuladores robóticos funcionen como nodos inteligentes dentro de redes IoT, donde sus movimientos, posiciones, estados pueden ser monitoreados remotamente, y sus trayectorias planificadas teniendo en cuenta datos en tiempo real de sensores externos (IoT).
-
-En escenarios de Robótica en el Borde (Edge Robotics) o IoRT (Internet of Robotic Things), MoveIt! puede correr en hardware embebido o edge, recibiendo datos de sensores IoT, y realizar planificación local para reducir latencia frente a depender de la nube.
-
-MoveIt! facilita integración con otros sistemas IoT mediante APIs, plugin de sensores, módulos de percepción que pueden emitir datos útiles para plataformas IoT (por ejemplo para mantenimiento predictivo, monitoreo, etc.)
-
-En contextos de flotas de robots o automatización distribuida, MoveIt! apoya la orquestación de movimientos coordinados, detección de obstáculos dinámicos, cálculos de trayectorias seguros, lo que es crítico en fábricas inteligentes, logística con robots móviles manipuladores, etc.
+Permite que manipuladores robóticos funcionen como nodos inteligentes dentro de redes IoT, donde sus movimientos, posiciones, estados pueden ser monitoreados remotamente, y sus trayectorias planificadas teniendo en cuenta datos en tiempo real de sensores externos (IoT). En escenarios de Robótica en el Borde (Edge Robotics) o IoRT (Internet of Robotic Things), Movelt puede correr en hardware embebido o edge, recibiendo datos de sensores IoT, y realizar planificación local para reducir latencia frente a depender de la nube. A su vez,  facilita integración con otros sistemas IoT mediante APIs, plugin de sensores, módulos de percepción que pueden emitir datos útiles para plataformas IoT (por ejemplo para mantenimiento predictivo, monitoreo, etc.). Para contextos de flotas de robots o automatización distribuida,  apoya la orquestación de movimientos coordinados, detección de obstáculos dinámicos, cálculos de trayectorias seguros, lo que es crítico en fábricas inteligentes, logística con robots móviles manipuladores, etc [8].
 
 ###### 1.1.2.3 Aplicaciones
 
