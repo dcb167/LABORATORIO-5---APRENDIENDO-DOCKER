@@ -46,7 +46,7 @@ Permite que manipuladores robóticos funcionen como nodos inteligentes dentro de
 
 + <strong> _Investigación y educación:_</strong>   Prototipado de planificadores, benchmarking de algoritmos de manipulación y enseñanza de cinemática y control.
 
-+ <strong> _Robots móviles manipuladores:_</strong> Integración de planificación del brazo con la navegación base (coordinación arm+base para tareas dinámicas en almacenes).
++ <strong> _Robots móviles manipuladores:_</strong> Integración de planificación del brazo con la navegación base (coordinación ARM + BASE para tareas dinámicas en almacenes).
 
 + <strong> _Prototipado y pruebas en simulación:_</strong> Uso combinado de Movelt, RViz y Gazebo para validar comportamientos antes de desplegar en hardware.
 
