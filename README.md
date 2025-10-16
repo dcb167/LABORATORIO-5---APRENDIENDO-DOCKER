@@ -60,6 +60,10 @@ Permite que manipuladores robóticos funcionen como nodos inteligentes dentro de
 
 ###### 1.1.3.3 Aplicaciones
 
+### 2.PUNTO 2
+
+### 3.PUNTO 3
+
 ### Referencias
 
 [1] M. Quigley, K. Conley, B. Gerkey, J. Faust, T. Foote, J. Leibs, R. Wheeler, and A. Y. Ng, “ROS: an open-source Robot Operating System,” ICRA Workshop on Open Source Software, 2009. [Online]. Available: https://ai.stanford.edu/~mquigley/papers/icra2009-ros.pdf
