@@ -72,6 +72,7 @@ Pruebas de integración ROS / ROS 2 y despliegues CI/CD: integración continua d
 
 ### 2. PUNTO 2
 
+
 ### 3. PUNTO 3
 
 ### Referencias
