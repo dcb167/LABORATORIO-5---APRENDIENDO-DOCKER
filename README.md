@@ -50,11 +50,11 @@ En contextos de flotas de robots o automatización distribuida, MoveIt! apoya la
 
 + <strong> _Robots de servicio y salud:_</strong>  Manipuladores que asisten en entornos asistenciales (teleoperación, entrega de medicación) integrados con sistemas hospitalarios IoT.
 
-+ <strong> Investigación y educación:_</strong>   Prototipado de planificadores, benchmarking de algoritmos de manipulación y enseñanza de cinemática y control.
++ <strong> _Investigación y educación:_</strong>   Prototipado de planificadores, benchmarking de algoritmos de manipulación y enseñanza de cinemática y control.
 
-+ <strong> Robots móviles manipuladores:_</strong> Integración de planificación del brazo con la navegación base (coordinación arm+base para tareas dinámicas en almacenes).
++ <strong> _Robots móviles manipuladores:_</strong> Integración de planificación del brazo con la navegación base (coordinación arm+base para tareas dinámicas en almacenes).
 
-+ <strong> Prototipado y pruebas en simulación:_</strong> Uso combinado de Movelt, RViz y Gazebo para validar comportamientos antes de desplegar en hardware.
++ <strong> _Prototipado y pruebas en simulación:_</strong> Uso combinado de Movelt, RViz y Gazebo para validar comportamientos antes de desplegar en hardware.
 
 ##### 1.1.3 Herramienta Gazebo
 
