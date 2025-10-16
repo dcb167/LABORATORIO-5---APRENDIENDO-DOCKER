@@ -22,11 +22,11 @@ La combinación de robótica e IoT ha dado origen al concepto Internet of Roboti
 
 + <strong> _Agricultura de precisión:_</strong> Drones y vehículos autónomos con ROS realizan mapeo de cultivos, detección de plagas y riego automatizado, integrándose con sistemas IoT para análisis predictivo [5].
 
-+ _Salud y asistencia remota:_ Robots con ROS permiten telepresencia, transporte hospitalario y monitoreo remoto, conectados a infraestructuras médicas IoT [5].
++<strong> _Salud y asistencia remota:_</strong> Robots con ROS permiten telepresencia, transporte hospitalario y monitoreo remoto, conectados a infraestructuras médicas IoT [5].
 
-+ _Industria 4.0 y logística:_ Manipuladores industriales y AGVs controlados por ROS se integran con plataformas IIoT para mejorar la trazabilidad y la eficiencia [4], [6].
++ <strong>_Industria 4.0 y logística:_</strong>Manipuladores industriales y AGVs controlados por ROS se integran con plataformas IIoT para mejorar la trazabilidad y la eficiencia [4], [6].
 
-+ _Investigación y educación:_ ROS sigue siendo la plataforma de referencia en universidades y centros de investigación por su modularidad y ecosistema abierto [1], [7].
++<strong> _Investigación y educación:_</strong> ROS sigue siendo la plataforma de referencia en universidades y centros de investigación por su modularidad y ecosistema abierto [1], [7].
 
 ##### 1.1.2 Herramienta MOVELT
 
