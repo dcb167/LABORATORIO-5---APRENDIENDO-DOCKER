@@ -60,9 +60,9 @@ Permite que manipuladores robóticos funcionen como nodos inteligentes dentro de
 
 ###### 1.1.3.3 Aplicaciones
 
-### 2.PUNTO 2
+### 2. PUNTO 2
 
-### 3.PUNTO 3
+### 3. PUNTO 3
 
 ### Referencias
 
