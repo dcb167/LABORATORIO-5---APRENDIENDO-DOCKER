@@ -91,6 +91,9 @@ Gazebo es un simulador multi-robot 3D open-source que combina un motor físico (
 
 + Se visualiza el despliegue con docker:
 
++ Como se pudo visualizar en la tarminal, aparece que se ejecuto desde Docker, con el comando (Docker run --rm)
+<img width="1482" height="984" alt="image" src="https://github.com/user-attachments/assets/e045122c-38ec-4a84-b680-52225ae35f28" />
+
 ### 3. PUNTO 3
 #### 3.1 Proceso de creación de simulación del Robot con LIDAR y SLAM en Docker:
 
