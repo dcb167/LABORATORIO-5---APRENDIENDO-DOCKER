@@ -80,8 +80,16 @@ Gazebo es un simulador multi-robot 3D open-source que combina un motor físico (
 <img width="1817" height="33" alt="image" src="https://github.com/user-attachments/assets/dd0ad8e2-ecf6-4a7f-8614-5653e6a4cc83" />
 
 ### 2.1.2 Se inicia a contruis la imagen Docker:
+<img width="1833" height="556" alt="image" src="https://github.com/user-attachments/assets/d068db67-fe5d-44a4-8f76-0100d534229b" />
+<img width="1861" height="310" alt="image" src="https://github.com/user-attachments/assets/9de383b8-f100-46ba-8f87-395f22d9851a" />
 
+### 2.1.3 Por ultimo se ejecuta el Cuadrupedo y se puede visualizar:
 
++ El cuadrupedo se puede movilizar con PyBullet:
+<img width="1600" height="854" alt="image" src="https://github.com/user-attachments/assets/2a362a0f-6c19-46d0-9afb-1c014d621daa" />
+<img width="1600" height="942" alt="image" src="https://github.com/user-attachments/assets/a5732b62-acd5-49ca-bfb4-913f6cf7e355" />
+
++ Se visualiza el despliegue con docker:
 
 ### 3. PUNTO 3
 #### 3.1 Proceso de creación de simulación del Robot con LIDAR y SLAM en Docker:
