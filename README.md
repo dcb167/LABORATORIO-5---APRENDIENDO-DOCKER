@@ -64,11 +64,11 @@ Gazebo es un simulador multi-robot 3D open-source que combina un motor físico (
 
 ###### 1.1.3.3 Aplicaciones
 
-Diseño y validación de gemelos digitales industriales: pruebas de planificación de rutas, previsión de fallos y mantenimiento predictivo usando datos simulados que replican las condiciones de planta.
++ <strong> _Diseño y validación de gemelos digitales industriales:_</strong> Pruebas de planificación de rutas, previsión de fallos y mantenimiento predictivo usando datos simulados que replican las condiciones de planta.
 
-Desarrollo y verificación de algoritmos de navegación y percepción: benchmarking de SLAM, localización y evitación de obstáculos con sensores simulados (LIDAR, cámaras, sonares). 
++ <strong> _Desarrollo y verificación de algoritmos de navegación y percepción:_</strong> Benchmarking de SLAM, localización y evitación de obstáculos con sensores simulados (LIDAR, cámaras, sonares). 
 
-Pruebas de integración ROS / ROS 2 y despliegues CI/CD: integración continua de software robótico con simulación automatizada para asegurar regresiones y calidad.
++ <strong> _Pruebas de integración ROS / ROS 2 y despliegues CI/CD: _</strong> Integración continua de software robótico con simulación automatizada para asegurar regresiones y calidad.
 
 ### 2. PUNTO 2
 
