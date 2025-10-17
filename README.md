@@ -74,6 +74,49 @@ Pruebas de integración ROS / ROS 2 y despliegues CI/CD: integración continua d
 
 
 ### 3. PUNTO 3
+#### Proceso de creación de simulación del Robot con LIDAR y SLAM en Docker:
+
++ Iniciamos creando la carpeta del proyecto y el Dockerfile:
+<img width="1705" height="191" alt="image" src="https://github.com/user-attachments/assets/8ea5aa7d-007b-4216-88ad-eb5c40ca9cc3" />
+
++ Seguimos con la construcción de la imagen Docker:
+<img width="1744" height="627" alt="image" src="https://github.com/user-attachments/assets/a7c9d84e-b186-421a-bf21-b0517fe2d7dd" />
+<img width="1352" height="180" alt="image" src="https://github.com/user-attachments/assets/a6893aba-a9ae-4276-a328-182e6cfa7f30" />
+
++ Ahora, en una terminal nueva se inicia la Simulación del robot (Gazebo):
+<img width="1476" height="602" alt="image" src="https://github.com/user-attachments/assets/bc32be8a-04cb-42c2-88dd-4700cf34fed6" />
++ Visualización de la simulación:
+<img width="1849" height="1077" alt="image" src="https://github.com/user-attachments/assets/6dcac922-0f73-4054-aaaf-614549d866b5" />
+
++ Dentro del mismo contenedor, en otra terminal ejecutamos el SLAM:
+<img width="1850" height="508" alt="image" src="https://github.com/user-attachments/assets/e8c8b750-1699-4ef6-912a-ecea0fcd9c56" />
+
++ Visualización de la ventana abierta del SLAM:
+<img width="1274" height="1047" alt="image" src="https://github.com/user-attachments/assets/a57f7c75-9d69-4edf-a602-6aaa3299174b" />
+
++ En otra terminal, se realizara la teleoperación para  poder mover el robot:
+<img width="1854" height="394" alt="image" src="https://github.com/user-attachments/assets/ffe6e8c9-a48f-44f6-be10-b9689956a799" />
+
++ Se visuliza que se mueve el robot:
+<img width="1831" height="1010" alt="image" src="https://github.com/user-attachments/assets/5718ea26-51d4-4fd2-b5c8-2455185d0d2e" />
+
++ En una cuarta terminal ejecutamos el Rviz que muestra los cambios en tiempo real:
+<img width="1831" height="1010" alt="image" src="https://github.com/user-attachments/assets/f91ef97c-681b-45fb-8def-38dc2caa821f" />
+<img width="1831" height="1010" alt="image" src="https://github.com/user-attachments/assets/fb815d4f-ab58-41d5-949a-e42f870319ec" />
+
++ Por ultimo se guarda el mapa y hacer la copia en la maquina:
+
+Copia del mapa:
+<img width="1849" height="155" alt="image" src="https://github.com/user-attachments/assets/c4be156d-ee2a-4e09-ba11-cd2f2a49650a" />
+
+Copia del mapa en la maquina:
+<img width="1849" height="155" alt="image" src="https://github.com/user-attachments/assets/1a550c62-88dd-443d-92b1-18f38349977c" />
+
++ Para finalizar se comprueba que los archivos del mapa quedaron guardados en la carpeta correctamente:
+<img width="1827" height="82" alt="image" src="https://github.com/user-attachments/assets/0f003a32-fceb-423e-adfb-aa20d30045e4" />
+
++ Se termina de comprobrar abriendo el mapa para verlo:
+<img width="1865" height="629" alt="image" src="https://github.com/user-attachments/assets/d2d111a7-7891-4967-add4-e49ae2620a5b" />
 
 ### Referencias
 
