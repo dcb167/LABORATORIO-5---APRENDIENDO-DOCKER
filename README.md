@@ -71,6 +71,16 @@ Gazebo es un simulador multi-robot 3D open-source que combina un motor físico (
 + <strong> _Pruebas de integración ROS / ROS 2 y despliegues CI/CD:_</strong> Integración continua de software robótico con simulación automatizada para asegurar regresiones y calidad.
 
 ### 2. PUNTO 2
+### 2.1 Se creo primeramente el directorio para la realizacion de archivos del laboratorio
+<img width="1692" height="43" alt="image" src="https://github.com/user-attachments/assets/0ceadda6-c80a-4497-838f-0c19a145a81d" />
+<img width="1692" height="46" alt="image" src="https://github.com/user-attachments/assets/24785ef8-eb8b-4943-ad5f-87fa782a1be7" />
+
+### 2.1.1 Ya relaizado el directorio proseguimos a crear el archivo del Dockerfile:
+<img width="1869" height="613" alt="image" src="https://github.com/user-attachments/assets/90ba053a-511f-467c-81bd-b6c371c9fd57" />
+<img width="1817" height="33" alt="image" src="https://github.com/user-attachments/assets/dd0ad8e2-ecf6-4a7f-8614-5653e6a4cc83" />
+
+### 2.1.2 Se inicia a contruis la imagen Docker:
+
 
 
 ### 3. PUNTO 3
